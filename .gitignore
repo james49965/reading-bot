@@ -8,6 +8,10 @@
 /reading-bot
 /dist/
 
+# JetBrains. Run configurations live here, and if you put the bot token in
+# a run config's Environment field it ends up in workspace.xml.
+.idea/
+
 # Go
 *.test
 *.out
