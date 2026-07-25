@@ -20,7 +20,7 @@ type Config struct {
 	BotToken      string
 	AllowedUserID int64
 
-	// GitHub — the repo holding the site's markdown.
+	// GitHub: the repo holding the site's markdown.
 	GitHubToken  string
 	GitHubOwner  string
 	GitHubRepo   string

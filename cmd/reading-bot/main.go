@@ -28,5 +28,5 @@ func main() {
 
 	// Next: preflight the GitHub token against ContentDir, then start the
 	// getUpdates loop. Both belong here, behind the config that just loaded.
-	log.Print("nothing else implemented yet — exiting")
+	log.Print("nothing else implemented yet, exiting")
 }
